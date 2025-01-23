@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "TypeScript: The Evolution of JavaScript for the Modern Developer"
+title: "From JavaScript Chaos to TypeScript Clarity"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-22
 published: true
@@ -11,44 +11,20 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*From JavaScript Chaos to TypeScript Clarity*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+JavaScript is often hailed as the backbone of modern web development, powering everything from interactive websites to complex web applications. However, despite its ubiquity, many developers criticize JavaScript as a "terrible language" due to its quirks, lack of type safety, and unpredictable behavior. As projects grow in size and complexity, these shortcomings become increasingly apparent, leading to bugs and maintainability challenges. Enter TypeScript: a superset of JavaScript created by Microsoft that adds static typing and powerful development tools. Since its release in 2012, TypeScript has rapidly gained traction, offering developers a more reliable and scalable way to write code. This essay explores the relationship between JavaScript and TypeScript, examining how TypeScript enhances JavaScript’s strengths, addresses its limitations, and shapes the future of programming. These challenges became apparent to me early in my programming journey, during my first experiences with JavaScript in high school.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## First Time Programmer
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+My first introduction to JavaScript came in high school. It was my first ever exposure to programming. At the time, I was learning the basics of web development with HTML, CSS, and JavaScript. These languages provided me with the tools to create visually engaging projects, sparking my interest in coding. I still remember the thrill of building my first website and even a simple game, amazed at how a few lines of code could transform into something tangible on a screen. However, the process was anything but smooth. JavaScript, in particular, stood out as unpredictable and challenging to work with. Its lack of structure and seemingly random behavior often left me frustrated, especially when debugging errors that defied logic. There were instances where my code worked perfectly on one computer but failed entirely on another. While I enjoyed the possibilities these tools offered, my early impression of JavaScript was that it was an unpredictable and overall terrible language, one that made coding both exciting and irritating. That is why I personally prefer Python. It wasn’t until I learned TypeScript that I found a solution to many of the frustrations I faced with JavaScript.
 
-Here's what I think: the difficult things will always be difficult.
+## A Game Changer
 
-## In the context of programming
+Learning about TypeScript completely transformed my approach to programming. The ability to declare variable types was a game changer. In JavaScript, dynamic typing often led to unpredictable outcomes, turning debugging into a frustrating and time-consuming process. In contrast, TypeScript introduced a level of clarity and predictability that I had come to appreciate in other languages like C/C++ and Python. In these languages, variables must be declared with a specific type, and the program will immediately throw an error if you attempt to input the wrong type. This type-checking mechanism makes it much easier to identify and fix mistakes early in the development process, rather than hunting down bugs during runtime. I recall one instance in JavaScript where I assigned a number to a variable without quotation marks, expecting it to behave like a string. The code “worked” but not as intended, and it took me far too long to identify the issue. With TypeScript’s strict typing, such errors are caught immediately, saving time and making development far more efficient.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## Final Thoughts
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+In conclusion, while JavaScript remains the backbone of modern web development, its quirks and limitations can make it challenging to work with, particularly in larger and more complex projects. TypeScript addresses these challenges by building upon JavaScript's foundation, introducing static typing and robust development tools that enhance code clarity, reliability, and maintainability. My own journey from struggling with JavaScript’s unpredictability to experiencing the structured and efficient workflow enabled by TypeScript exemplifies its transformative power. As the demand for scalable and reliable code continues to grow, TypeScript is poised to play an increasingly significant role in shaping the future of programming, proving that even the most widely used tools can benefit from thoughtful evolution.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+AI was used to check grammar and help organize thoughts into an essay.
