@@ -7,6 +7,7 @@ date: 2024-01-22
 published: true
 labels:
   - Engineering
+  - Programming
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
@@ -26,5 +27,7 @@ Learning about TypeScript completely transformed my approach to programming. The
 ## Final Thoughts
 
 In conclusion, while JavaScript remains the backbone of modern web development, its quirks and limitations can make it challenging to work with, particularly in larger and more complex projects. TypeScript addresses these challenges by building upon JavaScript's foundation, introducing static typing and robust development tools that enhance code clarity, reliability, and maintainability. My own journey from struggling with JavaScript’s unpredictability to experiencing the structured and efficient workflow enabled by TypeScript exemplifies its transformative power. As the demand for scalable and reliable code continues to grow, TypeScript is poised to play an increasingly significant role in shaping the future of programming, proving that even the most widely used tools can benefit from thoughtful evolution.
+
+
 
 AI was used to check grammar and help organize thoughts into an essay.
