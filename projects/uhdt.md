@@ -6,8 +6,8 @@ title: "University of Hawaii Drone Technologies"
 date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Engineering
+  - Drones
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
