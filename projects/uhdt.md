@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhdt_logo.png
+image: img/uhdt_logo_1.png
 title: "University of Hawaii Drone Technologies"
 date: 2024
 published: true
