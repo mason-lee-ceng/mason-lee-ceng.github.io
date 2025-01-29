@@ -7,13 +7,11 @@ date: 2015
 published: true
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
   - GitHub
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/dodge_em.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
@@ -25,4 +23,4 @@ Here is some example code to illustrate Simple Schema use:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a https://masonl04.github.io/index.html">masonl04.github.io/index.html</a>
