@@ -19,7 +19,7 @@ Dodge Em is a browser-based game built using HTML, CSS, and JavaScript. It is an
 Through this project, I gained hands-on experience in using HTML, CSS, and JavaScript for game development. However, I encountered several challenges along the way. One major issue was working with raw JavaScript without TypeScript, which led to unpredictable behavior. For example, the game exhibited an unusual problem where it would run correctly on some computers but not on others.
 
 Here is some example code to create the objects in the game:
-```
+```js
 function draw() {
     clear();
     player.show();
