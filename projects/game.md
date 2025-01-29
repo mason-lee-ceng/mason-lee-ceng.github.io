@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/dodge_em_logo.png
 title: "Dodge Em"
 date: 2020
 published: true
