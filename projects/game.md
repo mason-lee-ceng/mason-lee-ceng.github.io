@@ -23,4 +23,4 @@ Here is some example code to illustrate Simple Schema use:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Game: <a "https://masonl04.github.io/index.html">Dodge Em</a>
+Game: <a href="https://masonl04.github.io/index.html">Dodge Em</a>
