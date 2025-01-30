@@ -1,4 +1,4 @@
- ---
+---
 layout: essay
 type: essay
 title: "How to Ask, and Actually Get Answers"
