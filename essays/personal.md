@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/coding.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/coding.png">
 
 *Coding My Future*
 
