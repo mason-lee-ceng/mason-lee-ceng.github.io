@@ -13,9 +13,10 @@ summary: "A simple HTML website that was created in my highschool coding class."
 ---
 
 <img class="img-fluid" src="../img/restaurant.png">
-Dodge Em is a browser-based game built using HTML, CSS, and JavaScript. It is an arcade-style survival game where the goal is to last as long as possible. The inspiration for this game comes from many of the classic games I enjoyed as a child.
+Bento Restaurant is a browser-based website built using HTML, CSS, and JavaScript. It is an e-commerce platform designed to make ordering fresh and delicious bentos quick and convenient. Of course it does not actually place orders for food. 
 
-Through this project, I gained hands-on experience in using HTML, CSS, and JavaScript for game development. However, I encountered several challenges along the way. One major issue was working with raw JavaScript without TypeScript, which led to unpredictable behavior. For example, the game exhibited an unusual problem where it would run correctly on some computers but not on others.
+Through this project, I gained hands-on experience in web development using HTML, CSS, and JavaScript. It provided practical experience in transferring data between different HTML pages, specifically carrying over the calculated total. However, the project came with its challenges, particularly with CSS, which can sometimes behave unpredictably. For instance, the website functioned correctly before, but today, the Sushi Roll section appears broken for an unknown reason. Further debugging will be necessary to resolve this issue.
+
 
 Here is some example CSS code to create the objects in the website:
 ```css
