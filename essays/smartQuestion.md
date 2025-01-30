@@ -4,7 +4,7 @@ type: essay
 title: "How to Ask, and Actually Get Answers"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-22
-published: false
+published: true
 labels:
   - Engineering
   - Programming
