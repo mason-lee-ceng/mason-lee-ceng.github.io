@@ -32,4 +32,4 @@ Beyond technical skills, I aim to improve my ability to work with interdisciplin
 
 Ultimately, I want to create software that is not just technically solid but also socially impactful. Whether by improving existing systems, contributing to open-source projects, or designing new innovations, I hope my work reflects creativity and a drive to make a difference. By staying curious, continuously learning, and embracing challenges, I am confident that I can grow into a well-rounded software engineer ready to tackle meaningful problems.
 
-AI was used to check grammar and help organize thoughts into an essay and create the title and subtitles.
+AI was used to check grammar, help organize thoughts into an essay, and create the title and subtitles.
