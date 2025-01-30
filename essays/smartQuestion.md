@@ -22,8 +22,8 @@ For example, I examined a question on Stack Overflow that followed many of these
 
 ## A Game Changer
 I was unable to find bad questions on Stack Overflow due to their strict guidelines, so I created an example of a poorly framed question:
-
->“I’m trying to make a scroll animation with CSS scroll-snap, but it’s not working. I added some JavaScript to update scrollLeft, but now the smooth scrolling is broken. I don’t know why. Can someone tell me what’s wrong and how to fix it? Urgent!!!”
+ 
+> “I’m trying to make a scroll animation with CSS scroll-snap, but it’s not working. I added some JavaScript to update scrollLeft, but now the smooth scrolling is broken. I don’t know why. Can someone tell me what’s wrong and how to fix it? Urgent!!!”
 
 This question violates several best practices from How to Ask Questions the Smart Way. First, the urgency (“Urgent!!!”) is unnecessary and may discourage responses. The question lacks detail and effort—the author does not explain what they have tried, what specifically isn’t working, or provide any code or examples. Additionally, they fail to describe the expected behavior versus what is actually happening, making it difficult for others to diagnose the issue. A better question would include specific troubleshooting steps, a clear description of the problem, and a request for guidance rather than a vague plea for help.
 
