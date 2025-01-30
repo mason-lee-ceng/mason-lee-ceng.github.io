@@ -12,7 +12,7 @@ labels:
 summary: "A simple HTML website that was created in my highschool coding class."
 ---
 
-<img class="img-fluid" src="../img/dodge_em.png">
+<img class="img-fluid" src="../img/restaurant.png">
 Dodge Em is a browser-based game built using HTML, CSS, and JavaScript. It is an arcade-style survival game where the goal is to last as long as possible. The inspiration for this game comes from many of the classic games I enjoyed as a child.
 
 Through this project, I gained hands-on experience in using HTML, CSS, and JavaScript for game development. However, I encountered several challenges along the way. One major issue was working with raw JavaScript without TypeScript, which led to unpredictable behavior. For example, the game exhibited an unusual problem where it would run correctly on some computers but not on others.
