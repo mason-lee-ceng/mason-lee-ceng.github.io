@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/dodge_em_logo.png
+image: img/crane.png
 title: "Bento Restaurant"
 date: 2020
 published: true
