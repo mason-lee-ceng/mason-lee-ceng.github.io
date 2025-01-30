@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="img/question.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/question.jpg">
 
 *How to Ask, and Actually Get Answers*
 
