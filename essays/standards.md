@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/computer.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/computer.jpg">
 
 *Beyond the Surface of Style*
 
