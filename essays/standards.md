@@ -1,24 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "Coding My Future"
+title: "Beyond the Surface of Style"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-29
+date: 2024-02-13
 published: true
 labels:
-  - Engineering
   - Programming
 ---
 
 <img width="250px" class="rounded float-start pe-4" src="../img/coding.png">
 
-*Coding My Future*
+*Beyond the Surface of Style*
 
-Software engineering has always fascinated me because it merges logical problem-solving with creative design to build impactful solutions. The idea of using technology to solve real-world problems is incredibly motivating and drives my passion for this field. My first exposure to programming came through HTML, CSS, and JavaScript, where I was amazed at how even a few lines of code could transform an idea into something functional. One of my earliest projects, a simple game, challenged me to balance logic with a user-friendly interface. Debugging tricky issues and optimizing performance taught me the importance of persistence and creativity in problem-solving.
+At first glance, coding standards might appear superficial. After all, why fuss about whether a brace sits on the same line or the next? But delve deeper, and you'll find that these stylistic choices serve as the grammar and punctuation of a programming language. Just as a well-constructed sentence communicates meaning clearly, consistent code style conveys the intent of the programmer without ambiguity. When every team member adheres to the same standards, the codebase becomes a unified narrative—easier to read, understand, and maintain.
 
-## Bridging Software and Hardware
+## ESLint: The First Week Experience
 
-As I’ve progressed in my studies, I’ve developed a strong interest in low-level programming and system optimization. Working with C and Verilog has deepened my appreciation for how software interacts with hardware, especially in writing efficient code. My experience with modular exponentiation, recursion, and MIPS assembly has strengthened my ability to think critically about algorithmic efficiency and computational complexity. Additionally, my work with the Puny Computer architecture has enhanced my understanding of instruction set design and microarchitecture, further fueling my interest in embedded systems and high-performance computing.
+My initial encounter with ESLint in VSCode was a mix of irritation and revelation. The barrage of warnings and errors seemed overwhelming at first—each complaint about a missing semicolon or an incorrectly formatted arrow function felt like nitpicking over trivial details. Yet, as I worked through these issues, I began to appreciate the underlying value of each rule. ESLint wasn’t merely enforcing an arbitrary style; it was encouraging best practices and highlighting potential pitfalls.
+
+For example, one rule flagged my use of a “let” instead of a “const”. While syntactically correct it could lead to subtle bugs in certain edge cases. This forced me to reconsider my approach, leading to a cleaner, more robust solution. In that moment, the ESLint warning transformed from a nuisance into a learning opportunity, reinforcing a deeper understanding of JavaScript’s quirks and strengths.
 
 ## Expanding My Skill Set
 
