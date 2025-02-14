@@ -23,14 +23,12 @@ For example, one rule flagged my use of a “let” instead of a “const”. Wh
 
 ## Expanding My Skill Set
 
-Looking ahead, I’m excited to develop expertise in machine learning and artificial intelligence, particularly in building and training models while considering their ethical implications. At the same time, I want to refine my skills in foundational software tools like version control systems, CI/CD pipelines, and scalable development practices. Strengthening my ability to optimize performance and debug complex systems will be essential as I take on more advanced projects.
+I've been dedicating a lot of time to refining my coding practices, focusing on proper indentation, balanced parentheses and brackets, and consistent naming conventions. As a result of this past week, I've realized that while my code is becoming more uniform, it's still just shy of truly professional-grade quality. Even small inconsistencies can ripple through a codebase and affect readability and maintainability. Each adjustment reminds me of how close I am to perfection and how far I still have to go.
 
-## Collaboration and Future Impact
+## Overall Impression
 
-Beyond technical skills, I aim to improve my ability to work with interdisciplinary teams. My experience with the UHDT Image Processing subsystem has shown me the importance of teamwork, especially when optimizing high-resolution image processing for GPS calculations. Navigating integration challenges and solving problems under pressure has strengthened my communication skills, but I recognize the need to bridge the gap between technical and non-technical collaborators further.
+In summary, coding standards are far from trivial. They form the backbone of high-quality software engineering by promoting clarity, consistency, and best practices. My week-long experiment with ESLint in VSCode was a vivid reminder of how initial frustrations can transform into lasting benefits. While the process of eliminating every linting error may seem tedious, it ultimately serves as a powerful learning mechanism—teaching you the subtleties of your programming language and instilling habits that lead to better code.
 
-## A Future in Software Innovation
-
-Ultimately, I want to create software that is not just technically solid but also socially impactful. Whether by improving existing systems, contributing to open-source projects, or designing new innovations, I hope my work reflects creativity and a drive to make a difference. By staying curious, continuously learning, and embracing challenges, I am confident that I can grow into a well-rounded software engineer ready to tackle meaningful problems.
+Yes, adhering to strict coding standards can be both painful and immensely useful. The temporary discomfort is a small price to pay for the long-term gains in code quality, team cohesion, and personal growth as a developer. In the realm of software development, a disciplined approach to coding standards is not just a style choice—it’s an investment in excellence.
 
 AI was used to check grammar, help organize thoughts into an essay, and create the title and subtitles.
