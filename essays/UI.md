@@ -23,12 +23,11 @@ For example, creating a responsive navigation bar with raw HTML and CSS could ta
 
 ## Effortless Responsiveness
 
-Back in high school, when I first started coding with raw HTML and CSS, I quickly realized how frustrating it was to make my sites look good on different screen sizes. No matter how much time I spent adjusting widths and margins, my layouts would always break or look terrible on smaller screens. Writing media queries felt like a never-ending battle, and I often ended up with sites that looked great on my laptop but were a mess on phones.
+Back in high school, when I first started coding with raw HTML and CSS, I quickly realized how frustrating it was to make my sites look good on different screen sizes. No matter how much time I spent adjusting widths and margins, my layouts would always break or look terrible on smaller screens. Writing media queries felt like a never-ending battle, and I often ended up with sites that looked great on my laptop but were a mess on my teacher's and peers' laptops.
 <br /><br />
 Making sure your website looks great on all devices can be tricky. Normally, you’d have to write tons of CSS media queries to handle different screen sizes. UI frameworks take care of this for you with built-in responsive grid systems.
 <br /><br />
 Bootstrap 5’s grid system lets you arrange layouts using simple classes like col-sm-6 or col-lg-4. This means your content adapts smoothly to different screens without the headache of writing complex CSS.
-
 
 ## Consistency and Easy Maintenance
 
