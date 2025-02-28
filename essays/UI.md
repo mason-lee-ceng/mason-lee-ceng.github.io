@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/chaos_to_clarity.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/ui.jpg">
 
 *Why Developers Choose Bootstrap 5 and Beyond*
 
