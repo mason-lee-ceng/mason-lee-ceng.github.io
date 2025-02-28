@@ -24,16 +24,16 @@ For example, creating a responsive navigation bar with raw HTML and CSS could ta
 ## Effortless Responsiveness
 
 Back in high school, when I first started coding with raw HTML and CSS, I quickly realized how frustrating it was to make my sites look good on different screen sizes. No matter how much time I spent adjusting widths and margins, my layouts would always break or look terrible on smaller screens. Writing media queries felt like a never-ending battle, and I often ended up with sites that looked great on my laptop but were a mess on phones.
-<br />
+<br /><br />
 Making sure your website looks great on all devices can be tricky. Normally, you’d have to write tons of CSS media queries to handle different screen sizes. UI frameworks take care of this for you with built-in responsive grid systems.
-<br />
+<br /><br />
 Bootstrap 5’s grid system lets you arrange layouts using simple classes like col-sm-6 or col-lg-4. This means your content adapts smoothly to different screens without the headache of writing complex CSS.
 
 
 ## Consistency and Easy Maintenance
 
 UI frameworks ensure that your site has a clean, uniform look, which is especially helpful when working on a team. Instead of everyone defining styles in their own way, Bootstrap provides a standard design system that keeps everything cohesive.
-<br />
+<br /><br />
 Maintaining and updating projects is also easier. If a company wants to change its primary color scheme, you don’t have to dig through multiple CSS files—just tweak a single Bootstrap variable, and the whole site updates automatically.
 
 ## Conclusion
