@@ -17,7 +17,7 @@ To address this issue, we propose the UH System Contact Information Hub, a centr
 
 ## Proposers
 
-This project is being proposed by [Your Name Here]. If working with a team, you may list your collaborators’ names here as well.
+This project is being proposed by Mason.
 
 ## Mockup Page Ideas
 
