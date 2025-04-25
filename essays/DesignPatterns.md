@@ -22,8 +22,6 @@ These patterns are categorized (like creational, structural, and behavioral) and
 
 This isn’t theory—it’s survival. Without patterns, projects quickly become brittle, inconsistent, and difficult to scale.
 
-> “Design patterns help you build frameworks that are extensible, reusable, and understandable.” — *Erich Gamma et al.,* _Design Patterns: Elements of Reusable Object-Oriented Software_
-
 ## My First Encounter with Patterns: A Symphony in Refactor
 
 I remember refactoring a sprawling JavaScript front-end for a dashboard. Buttons triggered multiple functions. The data pipeline was spaghetti. When my team introduced the **Observer Pattern** to manage UI updates based on data changes, everything clicked—literally and figuratively. Instead of manual updates, our components subscribed to data changes and reacted automatically. It felt like introducing a conductor to a chaotic band: suddenly, every instrument played in harmony.
@@ -46,4 +44,6 @@ Each pattern improved my code’s **maintainability**, **testability**, and most
 
 Design patterns are not just academic concepts—they’re industry survival tools. They’re the difference between code that merely _runs_ and code that _endures_. They’re how seasoned engineers communicate intent, abstract complexity, and plan for growth.
 
-So, when asked in an interview what design patterns are, and how I’ve used them, I won’t list definitions like a textbook. I’ll say: _They are my toolbox as a software architect—and I’ve built systems that sing because of them._
+So, when asked in an interview what design patterns are, and how I’ve used them, I won’t list definitions like a textbook.
+
+AI was used to fix grammar and organize thoughts.
