@@ -7,11 +7,10 @@ date: 2025-04-24
 published: true
 labels:
   - Engineering
+  - Software
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/pngtree-blueprint-plan-png-image_6139728.png">
-
-# 
 
 In the world of construction, no builder begins with a blank slate and a hammer. Instead, they start with blueprints—schematic guides born from years of experience, fine-tuned for safety, efficiency, and elegance. Now imagine software development: chaotic, abstract, infinitely complex. It may not deal with steel or concrete, but it needs structure just the same. That’s where **design patterns** come in—the architectural blueprints of clean, maintainable code.
 
