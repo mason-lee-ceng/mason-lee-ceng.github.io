@@ -10,7 +10,7 @@ labels:
   - UH Campus Careers
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/effort-tracking/spreadsheet_tracking.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/effort.jpg">
 
 *Effort estimation: the process of forecasting the amount of time required to complete a task or project.*
 
