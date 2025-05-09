@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Time Well Spent: Lessons from Estimating and Tracking Effort on the Campus Careers Website"
 date: 2025-05-08
-published: false
+published: true
 labels:
   - Engineering
   - Project Management
