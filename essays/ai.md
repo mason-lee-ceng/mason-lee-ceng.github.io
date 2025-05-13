@@ -10,7 +10,7 @@ labels:
   - ICS 314
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/ai_reflection.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/ai.jpg">
 
 **AI in ICS 314: A Personal Reflection on Learning and Software Engineering**
 
