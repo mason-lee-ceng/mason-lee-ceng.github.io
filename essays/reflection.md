@@ -10,6 +10,8 @@ labels:
   - Reflection
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/software.png">
+
 As I near the end of ICS 314, I’ve realized that the course goes far beyond simply building web applications. While I gained experience with frameworks like React and tools like GitHub, what I truly developed were foundational skills in software engineering that can apply across all domains of computing. Among these, three key areas stood out to me: **Configuration Management**, **Agile Project Management**, and **Ethics in Software Engineering**. Each of these concepts has helped me think more critically about how to write, maintain, and manage software in any environment—whether it’s a full-stack web app, a data pipeline, or an embedded system.
 
 ## Configuration Management
