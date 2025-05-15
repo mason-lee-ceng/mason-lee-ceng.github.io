@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Beyond Web Development: What ICS 314 Taught Me About Software Engineering"
+title: "What ICS 314 Taught Me About Software Engineering"
 date: 2025-05-14
 published: true
 labels:
