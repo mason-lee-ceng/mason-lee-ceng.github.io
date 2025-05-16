@@ -30,4 +30,6 @@ Some of my contributions included creating initial mockups to guide the layout a
 - **Want to Know**: I wanted to learn how to take a design from mockup to a working feature in a collaborative environment, and how to handle documentation and developer resources for a multi-contributor project.
 - **Learned**: I learned how impactful good UI layout decisions can be, and how important it is to keep code organized and well-documented. Working on multiple parts of the site gave me a broader understanding of our system, and I saw firsthand how supporting teammates and maintaining documentation helps the entire project run more smoothly.
 
+### <a href="https://github.com/campus-careers/campus-careers-app"> Link to Github Repo </a>
+
 <hr>
