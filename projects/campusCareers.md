@@ -12,6 +12,8 @@ labels:
 summary: "A full-stack web application to connect UH students with companies offering internships and jobs."
 ---
 
+<img class="img-fluid" src="../img/landingPage.png">
+
 <hr>
 
 ### Overview
